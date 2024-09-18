@@ -1,0 +1,25 @@
+.container{
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  margin: auto;
+}
+
+img{
+width: 100%;
+  height: 100%;
+  background-color: transparent;
+}
+ .btnclick{
+  background-color: rgb(102, 102, 149);
+  border-radius: 25px;
+  border: none;
+  padding: 10px 30px;
+  margin:30px;
+ }
+ .btnNotclick{
+  background-color: rgb(255, 110, 110);
+  border-radius: 25px;
+  border: none;
+  padding: 10px 30px;
+ }
